@@ -1,0 +1,33 @@
+body{
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+}
+.dark{
+    background-color: #000;
+    color: #fff;
+}
+.light{
+    background-color: #fff;
+    color:#000;
+}
+.navbar li{
+    list-style-type: none;
+}
+
+/* Home */
+.one{
+    background-color: #b0e64e;
+    color: #000;
+}
+.two{
+     background-color: #68d7e6;
+    color: #b82323;
+}
+.three{
+     background-color: #e5c0df;
+    color: #6a24ec;
+}
+/* End Home */
